@@ -1,16 +1,7 @@
-# masjid_ribat_academy
+# Masjid Ribat Academy
 
 A new Flutter project.
 
-## Getting Started
+## Objective
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a project to build a khan academy like platform for all the educational videos of Sheikh Uthman ibn Farooq from Masjid Ribat YouTube channel. 
